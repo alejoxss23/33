@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>el pronostico</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Este es una breve explicacion del clima que tendremos estos dias</h1>
+    <p>veremos los siguientes municipios por su clima</p>
+    <h2>tendremos en cuenta la probabilidad del clima</h2>
+    <iframe src="https://www.meteoblue.com/en/weather/widget/daily/ip_romania_675514?geoloc=fixed&days=5&tempunit=FAHRENHEIT&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=1&maxtemperature=1&mintemperature=1&windspeed=1&windgust=0&winddirection=1&uv=0&humidity=0&precipitation=1&precipitationprobability=1&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 270px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/en/weather/week/ip_romania_675514?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+             <ul>
+                   <li>Este es uno de los lugares con el clima mas lluvioso</li>
+                   <li>Y este es el segundo lugar mas lluvioso</li>
+             </ul>
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYpNEXiUDy-O1DKuDYBw4HMlvCVgXsnoOkOQ&s" alt="Image 1">
+</body>
+</html>
